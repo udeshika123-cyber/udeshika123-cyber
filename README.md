@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ
 </h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
@@ -13,9 +10,6 @@
 
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **udeshikaprabhashini21@gmail.com**<br>-
-
-[![autocomplete](https://codeium.com/badges/user/udeshika123-cyber/autocomplete)](https://codeium.com/profile/udeshika123-cyber)
-[![streak](https://codeium.com/badges/v2/user/udeshika123-cyber/streak)](https://codeium.com/profile/udeshika123-cyber)
 
 ##
 <a></a>
