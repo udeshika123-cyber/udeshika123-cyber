@@ -71,7 +71,7 @@ Feel free to connect and collaborate on exciting tech projects!
 </h3>
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" 
          alt="BuyMeACoffee" 
-         style="width: 200px; height: auto; border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
+         style="width: 200px; height: auto; align:center;border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
   
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
