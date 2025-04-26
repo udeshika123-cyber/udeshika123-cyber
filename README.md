@@ -60,7 +60,6 @@ Feel free to connect and collaborate on exciting tech projects!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
@@ -68,7 +67,7 @@ Feel free to connect and collaborate on exciting tech projects!
  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" /> You can help me by Donating  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" />
   <br>
 	<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="160" />
-  <br>
+  <br><br>
 	<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" 
          alt="BuyMeACoffee" 
          style="width: 200px; height: auto;border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
