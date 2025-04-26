@@ -11,7 +11,9 @@
 </h3>
 <br>
 
-<img src = "https://github.com/udeshika123-cyber/udeshika123-cyber/edit/main/giphy.gif">
+<p align="center">
+  <img src="https://github.com/udesika123-cyber/udesika123-cyber/blob/main/giphy.gif?raw=true" width="1000px" height="400px" />
+</p>
 
 # 💫 About Me:
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
