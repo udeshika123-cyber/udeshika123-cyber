@@ -68,11 +68,10 @@ Feel free to connect and collaborate on exciting tech projects!
  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" /> You can help me by Donating  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" />
   <br>
 	<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="160" />
-</h3>
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" 
          alt="BuyMeACoffee" 
-         style="width: 200px; height: auto; align:center;border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
-  
+         style="width: 200px; height: auto;border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
+</h3>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=udeshika123-cyber&icon=8&color=3)](https://visitcount.itsvg.in)
