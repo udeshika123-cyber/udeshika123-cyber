@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/udesika123-cyber/udesika123-cyber/blob/main/giphy.gif?raw=true" width="1000px" height="400px" />
+  <img src="https://github.com/udeshika123-cyber/udeshika123-cyber/blob/main/README.md?plain=1/giphy.gif?raw=true" width="1000px" height="400px" />
 </p>
 
 # 💫 About Me:
