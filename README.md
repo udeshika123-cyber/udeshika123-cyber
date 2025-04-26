@@ -39,10 +39,6 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="45px" /> Top Contributed Repo:
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" width="40px" /> Let's Build Something Amazing Together!
-
-Feel free to connect and collaborate on exciting tech projects!  
-
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 	
 <div style="display: flex;">
@@ -55,6 +51,10 @@ Feel free to connect and collaborate on exciting tech projects!
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> Trophy Road
 ![](https://github-profile-trophy.vercel.app/?username=udeshika123-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" width="40px" /> Let's Build Something Amazing Together!
+
+Feel free to connect and collaborate on exciting tech projects!  
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40px" /> Random Dev Quote
 
