@@ -26,6 +26,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=udeshika123-cyber&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udeshika123-cyber&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+#contribution graph:
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="45px" /> Contribution Graph:
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraaax&theme=synthwave-84" />
+  </a>
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=udeshika123-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
