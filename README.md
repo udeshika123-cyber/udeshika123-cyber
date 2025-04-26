@@ -58,7 +58,7 @@ Feel free to connect and collaborate on exciting tech projects!
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40px" /> Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
