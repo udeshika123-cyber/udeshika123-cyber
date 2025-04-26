@@ -26,12 +26,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=udeshika123-cyber&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udeshika123-cyber&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-#contribution graph:
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="45px" /> Contribution Graph:
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraaax&theme=synthwave-84" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udeshika123-cyber&theme=synthwave-84" />
   </a>
 </p>
 
