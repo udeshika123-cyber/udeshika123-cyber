@@ -38,6 +38,12 @@
 ## <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="45px" /> Top Contributed Repo:
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" width="40px" /> Let's Build Something Amazing Together!
+
+Feel free to connect and collaborate on exciting tech projects!  
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 	
 <div style="display: flex;">
 	<img src="https://github-contributor-stats.vercel.app/api?username=udeshika123-cyber&limit=5&theme=neon&combine_all_yearly_contributions=true"> &nbsp;
