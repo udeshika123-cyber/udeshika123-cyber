@@ -14,7 +14,7 @@
 ##
 <a></a>
 
-#<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45px" /> Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45px" /> Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/udeshikaprabhashini21@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udeshika_prabhashini) 
 
 #<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" /> Tech Stack:
@@ -36,7 +36,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-#<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="45px" /> Top Contributed Repo:
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="45px" /> Top Contributed Repo:
 	
 <div style="display: flex;">
 	<img src="https://github-contributor-stats.vercel.app/api?username=udeshika123-cyber&limit=5&theme=neon&combine_all_yearly_contributions=true"> &nbsp;
@@ -46,7 +46,8 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-#<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> Trophy Road
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> 
 ![](https://github-profile-trophy.vercel.app/?username=udeshika123-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ##<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40px" /> Random Dev Quote
