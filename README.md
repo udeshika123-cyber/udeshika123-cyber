@@ -1,20 +1,25 @@
 <h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ
+	
 </h1>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 <h1 align="center">Hi 👋, I'm 👽</h1>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 <h3 align="center">a University Student </h3>
 
 
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 # 💫 About Me:
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **udeshikaprabhashini21@gmail.com**<br>-
+- ## <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ##
 <a></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45px" /> Connect with Me
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45px" /> Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/udeshikaprabhashini21@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udeshika_prabhashini) 
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" /> Tech Stack:
@@ -23,11 +28,13 @@
 
 
 # 📊 GitHub Stats:
+## <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 ![](https://github-readme-stats.vercel.app/api?username=udeshika123-cyber&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=udeshika123-cyber&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udeshika123-cyber&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="45px" /> Contribution Graph:
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
