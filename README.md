@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **udeshikaprabhashini21@gmail.com**<br>-
-- 📫 [See my Portfolio][!(https://www.figma.com/proto/8zVYVr26zpfpoy4nFUciGZ/MyCV?node-id=2-2&t=BzDUsUcJj2lopIG4-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2 )
+- 📫 [See My Portfolio](https://www.figma.com/proto/8zVYVr26zpfpoy4nFUciGZ/MyCV?node-id=2-2&t=BzDUsUcJj2lopIG4-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 - ## <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ##
